@@ -25,9 +25,9 @@ function embedVideo(data) {
   $("#iframe1, #iframe2, #iframe3").css("position", "inherit");
 
   // to randomised videos
-  let randomNum1 = Math.floor(Math.random() * Math.floor(20));
-  let randomNum2 = Math.floor(Math.random() * Math.floor(20));
-  let randomNum3 = Math.floor(Math.random() * Math.floor(20));
+  let randomNum1 = Math.floor(Math.random() * Math.floor(5));
+  let randomNum2 = Math.floor(Math.random() * Math.floor(5));
+  let randomNum3 = Math.floor(Math.random() * Math.floor(5));
 
   // prevent duplicating videos
   if (randomNum1 !== randomNum2 !== randomNum3) {
@@ -153,7 +153,7 @@ $(".button").on("click", function findVideos() {
       key: 'AIzaSyBdQxExwDPRSHAFbf3hPBHOmDo-_kuM6GQ',
       // q: "cats",
       part: 'snippet',
-      maxResults: 20,
+      maxResults: 5,
       type: 'video',
       location: myLocation, 
       locationRadius: myKm

@@ -3,7 +3,7 @@
 
 ## Description 
 
-V-bloggers Around You allows business owners to find video influencers around a desired location to promote their business. It also helps them to have a better prespective of their product market, in order to improve the leads and sales. 
+V-bloggers Around You allows business owners to find video influencers around a desired location to promote their business. It also helps them to have a better perspective of their product market, in order to improve the leads and sales. 
 
 ## Preview
 ![img](./images/landingPage.png)

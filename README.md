@@ -19,7 +19,7 @@ V-bloggers Around You allows business owners to find video influencers around a 
 https://roukell.github.io/vbloggers_around_you/
 
 ## Technologies Used
-HTML, CSS, JavaScript, JQuery, Google Map API, Youtube API, Foundation Framework, Canva
+HTML, CSS, JavaScript, jQuery, Google Map API, Youtube API, Foundation Framework, Canva
 
 ## Table of Contents
 * [Usage](#Usage)
